@@ -1,0 +1,13 @@
+.gradient-background {
+    background-image: linear-gradient(to top right, #AAD7D9, #d7f5f5, #E5E1DA);
+}
+
+.profile-img {
+    height: 150px;
+    border-radius: 50%;
+}
+
+.feature-svg {
+    width: 1.8rem;
+    height: 1.8rem;
+}
